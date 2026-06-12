@@ -1,0 +1,8 @@
+Open Powershell and enter: pip freeze > requirements.txt
+
+Then copy paste the below part,
+
+mediapipe==0.10.14
+opencv-python==4.13.0.92
+PyAutoGUI==0.9.54
+numpy==2.2.6
